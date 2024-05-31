@@ -32,6 +32,10 @@ Revolucionar a interação entre empresas e usuários, simplificando processos e
 - **Frontend:** HTML5, CSS, PHP, JavaScript
 - **Banco de Dados:** PostgreSQL
 
+## Sobre a Empresa
+
+A OndeVou.com Tecnologia Ltda é uma empresa 100% brasileira, sediada em João Pessoa, estado da Paraíba. Somos detentores da marca registrada OndeVou.com e possuímos os registros dos domínios ondevou.com e ondevou.com.br. Estamos comprometidos em fornecer serviços de alta qualidade e em constante evolução, sempre visando a melhor experiência para nossos usuários.
+
 ## Marca e Compromisso
 
 A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas registradas da empresa OndeVou.com Tecnologia Ltda, sediada na cidade de João Pessoa, estado da Paraíba. Comprometemo-nos em fornecer serviços de alta qualidade e em constante evolução, visando sempre a melhor experiência para nossos usuários.
