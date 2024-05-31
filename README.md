@@ -1,4 +1,4 @@
-# OndeVou.com Tecnologia Ltda
+# OndeVou.com
 
 ## Plataforma
 
