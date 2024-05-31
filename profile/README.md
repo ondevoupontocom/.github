@@ -45,12 +45,12 @@ Quando decidimos expandir nossa presença online para além do site [OndeVou.com
 
 ## Redes Sociais
 
-- ![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png) [Instagram: ondevoupontocom](https://instagram.com/ondevoupontocom)
-- ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) [Facebook: ondevoupontocom](https://facebook.com/ondevoupontocom)
-- ![X](https://upload.wikimedia.org/wikipedia/commons/1/18/X_logo.svg) [X: ondevoupontocom](https://x.com/ondevoupontocom)
-- ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png) [YouTube: ondevoupontocom](https://youtube.com/ondevoupontocom)
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) [GitHub: ondevoupontocom](https://github.com/ondevoupontocom)
-- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) [LinkedIn: ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
+- [![Instagram](https://img.icons8.com/ios-filled/24/000000/instagram-new.png) Instagram: ondevoupontocom](https://instagram.com/ondevoupontocom)
+- [![Facebook](https://img.icons8.com/ios-filled/24/000000/facebook-new.png) Facebook: ondevoupontocom](https://facebook.com/ondevoupontocom)
+- [![X](https://img.icons8.com/ios-filled/24/000000/twitter.png) X: ondevoupontocom](https://x.com/ondevoupontocom)
+- [![YouTube](https://img.icons8.com/ios-filled/24/000000/youtube-play.png) YouTube: ondevoupontocom](https://youtube.com/ondevoupontocom)
+- [![GitHub](https://img.icons8.com/ios-filled/24/000000/github.png) GitHub: ondevoupontocom](https://github.com/ondevoupontocom)
+- [![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png) LinkedIn: ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
 
 ## Contato
 
