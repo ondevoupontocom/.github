@@ -1,4 +1,4 @@
-# OndeVou.com
+# OndeVou.com Tecnológia Ltda
 
 ## Plataforma
 
@@ -37,3 +37,4 @@ A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas regi
 
 - E-mail: firminomgusmao@gmail.com
 - Telefone/WhatsApp: [83 9 9647-6498](https://wa.me/5583996476498)
+- Site: [https://ondevou.com](https://ondevou.com)
