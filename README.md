@@ -2,10 +2,11 @@
 
 ## Plataforma
 
-A OndeVou.com é uma plataforma inovadora que conecta pessoas, lugares e negócios. Com um foco especial em facilitar a vida de pequenas e médias empresas, oferecemos uma variedade de serviços e recursos para ajudar nossos usuários a alcançar seus objetivos de forma eficiente e integrada.
+A **OndeVou.com** é uma plataforma inovadora que conecta pessoas, lugares e negócios, com foco especial em facilitar a vida de pequenas e médias empresas. Oferecemos uma variedade de serviços e recursos para ajudar nossos usuários a alcançar seus objetivos de forma eficiente e integrada.
 
-Site oficial: [https://ondevou.com](https://ondevou.com)
+- **[OndeVou.com](https://ondevou.com):** Nosso site oficial, onde operamos com dados em modo produção. Aqui estão os dados oficiais dos participantes em operação com o ERP, garantindo a segurança e integridade das informações.
 
+- **[OndeVou.com.br](https://ondevou.com.br):** Versão beta do nosso site, utilizado para testes, treinamentos e desenvolvimento de novas funcionalidades. Aqui, buscamos constantemente melhorar e expandir nossos serviços, garantindo a melhor experiência para nossos usuários.
 
 ## Missão
 
