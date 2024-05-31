@@ -9,7 +9,7 @@ Site oficial: [https://ondevou.com](https://ondevou.com)
 
 ## Missão
 
-Simplificar a interação entre empresas e usuários, criando uma experiência digital intuitiva e poderosa.
+Revolucionar a interação entre empresas e usuários, simplificando processos e criando uma experiência digital intuitiva e poderosa que impulsione o crescimento e a eficiência dos negócios.
 
 ## Produtos
 
