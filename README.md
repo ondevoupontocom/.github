@@ -1,0 +1,2 @@
+# .github
+Plataforma OndeVou.com
