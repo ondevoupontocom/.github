@@ -26,6 +26,12 @@ Revolucionar a interação entre empresas e usuários, simplificando processos e
 
 - **OndeVou Endereços:** Simplifica o cadastro e a organização de participantes por endereço, proporcionando informações detalhadas por rua, bairro, CEP e cidade.
 
+## Tecnologias Utilizadas
+
+- **Backend:** Python, Perl
+- **Frontend:** HTML5, CSS, PHP, JavaScript
+- **Banco de Dados:** PostgreSQL
+
 ## Marca e Compromisso
 
 A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas registradas da empresa OndeVou.com Tecnologia Ltda, sediada na cidade de João Pessoa, estado da Paraíba. Comprometemo-nos em fornecer serviços de alta qualidade e em constante evolução, visando sempre a melhor experiência para nossos usuários.
