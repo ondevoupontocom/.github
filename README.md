@@ -29,6 +29,9 @@ Revolucionar a interação entre empresas e usuários, simplificando processos e
 
 A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas registradas da empresa OndeVou.com Tecnologia Ltda, sediada na cidade de João Pessoa, estado da Paraíba. Comprometemo-nos em fornecer serviços de alta qualidade e em constante evolução, visando sempre a melhor experiência para nossos usuários.
 
+**Nota sobre o nome "ondevoupontocom":**
+Quando decidimos expandir nossa presença online para além do site [OndeVou.com](https://ondevou.com), deparamo-nos com o desafio de encontrar um nome que fosse facilmente reconhecível e que mantivesse a essência da nossa marca. Como o nome "OndeVou" não estava disponível em todas as plataformas, optamos por uma abordagem criativa: substituímos o ponto por "ponto," resultando em "ondevoupontocom". Essa escolha não apenas reflete a simplicidade e clareza do nosso nome original, mas também nos permite manter a consistência da nossa marca em todas as nossas interações online.
+
 ## Redes Sociais
 
 - Instagram: [ondevoupontocom](https://instagram.com/ondevoupontocom)
