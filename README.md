@@ -33,8 +33,10 @@ A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas regi
 
 - Instagram: [ondevoupontocom](https://instagram.com/ondevoupontocom)
 - Facebook: [ondevoupontocom](https://facebook.com/ondevoupontocom)
-- Twitter: [ondevoupontocom](https://twitter.com/ondevoupontocom)
+- X: [ondevoupontocom](https://x.com/ondevoupontocom)
 - YouTube: [ondevoupontocom](https://youtube.com/ondevoupontocom)
+- GitHub: [ondevoupontocom](https://github.com/ondevoupontocom)
+- LinkedIn: [ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
 
 ## Contato
 
