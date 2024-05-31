@@ -47,3 +47,6 @@ Quando decidimos expandir nossa presença online para além do site [OndeVou.com
 - E-mail: firminomgusmao@gmail.com
 - Telefone/WhatsApp: [83 9 9647-6498](https://wa.me/5583996476498)
 
+## Agradecimentos
+
+Agradecemos a todos os colaboradores, clientes e usuários que contribuem diariamente para o crescimento e sucesso da plataforma OndeVou.com.
