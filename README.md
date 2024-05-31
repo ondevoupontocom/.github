@@ -3,6 +3,8 @@
 ## Plataforma
 
 A OndeVou.com é uma plataforma inovadora que conecta pessoas, lugares e negócios. Com um foco especial em facilitar a vida de pequenas e médias empresas, oferecemos uma variedade de serviços e recursos para ajudar nossos usuários a alcançar seus objetivos de forma eficiente e integrada.
+Site oficial: [https://ondevou.com](https://ondevou.com)
+
 
 ## Missão
 
@@ -37,4 +39,3 @@ A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas regi
 
 - E-mail: firminomgusmao@gmail.com
 - Telefone/WhatsApp: [83 9 9647-6498](https://wa.me/5583996476498)
-- Site: [https://ondevou.com](https://ondevou.com)
