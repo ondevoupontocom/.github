@@ -6,7 +6,7 @@ Prezado/a Investidor,
 Temos o prazer de apresentar a **OndeVou.com**, uma plataforma inovadora projetada para conectar pessoas, lugares e negócios. Nosso foco especial é facilitar a vida de pequenas e médias empresas, oferecendo uma variedade de serviços e recursos que promovem eficiência e integração. Estamos em pleno crescimento e buscamos parceiros investidores para expandir ainda mais nossa presença e impacto.
 
 ## Logomarca e sites
-[![OndeVou.com](https://ondevou.com/icon/ondevou_marca.png)](https://ondevou.com)
+[![OndeVou.com](https://ondevou.com/img/ondevou.com_logomarca_inpi.png)](https://ondevou.com)
 
 [**ondevou.com**](https://ondevou.com) é nosso site oficial, onde operamos com dados em modo produção. Aqui, garantimos a segurança e a integridade das informações dos participantes em operação com o ERP.
 
