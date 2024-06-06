@@ -1,47 +1,40 @@
-# OndeVou.com
+# Carta ao Investidor
 
-## Plataforma
+## Plataforma OndeVou.com
+Prezado/a Investidor,
 
-A **OndeVou.com** é uma plataforma inovadora que conecta pessoas, lugares e negócios, com foco especial em facilitar a vida de pequenas e médias empresas. Oferecemos uma variedade de serviços e recursos para ajudar nossos usuários a alcançar seus objetivos de forma eficiente e integrada.
+Temos o prazer de apresentar a **OndeVou.com**, uma plataforma inovadora projetada para conectar pessoas, lugares e negócios. Nosso foco especial é facilitar a vida de pequenas e médias empresas, oferecendo uma variedade de serviços e recursos que promovem eficiência e integração. Estamos em pleno crescimento e buscamos parceiros investidores para expandir ainda mais nossa presença e impacto.
 
-- **[OndeVou.com](https://ondevou.com):** Nosso site oficial, onde operamos com dados em modo produção. Aqui estão os dados oficiais dos participantes em operação com o ERP, garantindo a segurança e integridade das informações.
+## Logomarca e sites
+[![OndeVou.com](https://ondevou.com/icon/ondevou_marca.png)](https://ondevou.com)
 
-- **[OndeVou.com.br](https://ondevou.com.br):** Versão beta do nosso site, utilizado para testes, treinamentos e desenvolvimento de novas funcionalidades. Aqui, buscamos constantemente melhorar e expandir nossos serviços, garantindo a melhor experiência para nossos usuários.
+[**ondevou.com**](https://ondevou.com) é nosso site oficial, onde operamos com dados em modo produção. Aqui, garantimos a segurança e a integridade das informações dos participantes em operação com o ERP.
+
+[**ondevou.com.br**](https://ondevou.com.br) é a versão beta do nosso site, utilizada para testes, treinamentos e desenvolvimento de novas funcionalidades. Estamos constantemente aprimorando nossos serviços para proporcionar a melhor experiência possível aos nossos usuários.
 
 ## Missão
 
 Revolucionar a interação entre empresas e usuários, simplificando processos e criando uma experiência digital intuitiva e poderosa que impulsione o crescimento e a eficiência dos negócios.
 
-## Produtos
+## Produtos e Serviços
 
 - **OndeVou ERP:** Solução online, completa e descomplicada para pequenas e médias empresas, integrando gestão de clientes, fornecedores, produtos, compras, vendas, produção, emissão de documentos fiscais, controle de estoques e gestão financeira.
-  
-- **Controle de Produção:** Sistema simples e personalizado para indústrias de transformação, formulando produtos, controlando a qualidade, otimizando processos e aumentando a eficiência operacional.
-  
-- **Controle de Produção para Terceiros:** Controle da produção efetuada para terceiros e dos materiais em seu poder, gerando ordens de produção, recebendo materiais remetidos por terceiros, e controlando o estoque e a produção para terceiros.
+
+- **Controle de Produção:** Sistema personalizado para indústrias de transformação, formulando produtos, controlando a qualidade, otimizando processos e aumentando a eficiência operacional.
+
+- **Controle de Produção para Terceiros:** Gerencia a produção para terceiros, incluindo ordens de produção e controle de estoque e materiais.
 
 - **OndeVou Gases:** Gerenciamento e controle da produção, logística e rastreabilidade de gases medicinais e industriais, seguindo padrões da ANVISA, com foco na rastreabilidade por meio de leitura de QR Code.
 
-- **OndeVou Explore:** Forma eficiente de encontrar empresas, lugares, clientes e fornecedores, explorando a plataforma com base na localização atual ou navegando pelo mapa.
+- **OndeVou Explore:** Uma forma eficiente de encontrar empresas, lugares, clientes e fornecedores, utilizando a localização atual ou navegando pelo mapa.
 
-- **OndeVou Endereços:** Simplifica o cadastro e a organização de participantes por endereço, proporcionando informações detalhadas por rua, bairro, CEP e cidade.
+- **OndeVou Endereços:** Simplifica o cadastro e a organização de participantes por endereço, fornecendo informações detalhadas por rua, bairro, CEP e cidade.
 
-## Tecnologias Utilizadas
+## Marca e Domínios
 
-- **Backend:** Python, Perl
-- **Frontend:** HTML5, CSS, PHP, JavaScript
-- **Banco de Dados:** PostgreSQL
+A **OndeVou.com Tecnologia Ltda** é uma empresa 100% brasileira, sediada em João Pessoa, estado da Paraíba. Somos detentores da marca registrada **OndeVou.com** e possuímos os registros dos domínios **ondevou.com** e **ondevou.com.br**.
 
-## Sobre a Empresa
-
-A OndeVou.com Tecnologia Ltda é uma empresa 100% brasileira, sediada em João Pessoa, estado da Paraíba. Somos detentores da marca registrada OndeVou.com e possuímos os registros dos domínios ondevou.com e ondevou.com.br. Estamos comprometidos em fornecer serviços de alta qualidade e em constante evolução, sempre visando a melhor experiência para nossos usuários.
-
-## Marca e Compromisso
-
-A marca OndeVou.com e os domínios ondevou.com e ondevou.com.br são marcas registradas da empresa OndeVou.com Tecnologia Ltda, sediada na cidade de João Pessoa, estado da Paraíba. Comprometemo-nos em fornecer serviços de alta qualidade e em constante evolução, visando sempre a melhor experiência para nossos usuários.
-
-**Nota sobre o nome "ondevoupontocom":**
-Quando decidimos expandir nossa presença online para além do site [OndeVou.com](https://ondevou.com), deparamo-nos com o desafio de encontrar um nome que fosse facilmente reconhecível e que mantivesse a essência da nossa marca. Como o nome "OndeVou" não estava disponível em todas as plataformas, optamos por uma abordagem criativa: substituímos o "." por "ponto," resultando em "ondevoupontocom". Essa escolha não apenas reflete a simplicidade e clareza do nosso nome original, mas também nos permite manter a consistência da nossa marca em todas as nossas interações online.
+Quando decidimos expandir nossa presença online, optamos por uma abordagem criativa para manter a essência da nossa marca em todas as plataformas: substituímos o "." por "ponto," resultando em "ondevoupontocom". Isso nos permite manter a consistência da nossa marca em todas as nossas interações online.
 
 ## Redes Sociais
 
@@ -52,11 +45,24 @@ Quando decidimos expandir nossa presença online para além do site [OndeVou.com
 - [![GitHub](https://img.icons8.com/ios-filled/24/000000/github.png) GitHub: ondevoupontocom](https://github.com/ondevoupontocom)
 - [![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png) LinkedIn: ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
 
+## Ambiente de Desenvolvimento Avançado
+
+Nossa abordagem de desenvolvimento reflete nossa busca contínua pela excelência. Na organização ondevoupontocom do GitHub, onde mantemos o repositório principal da plataforma, [ondevou](https://github.com/ondevoupontocom/ondevou), nossa equipe trabalha de forma colaborativa e integrada, utilizando o Visual Studio Code no Windows 11 com WSL Ubuntu como nossa ferramenta de desenvolvimento principal.
+
+Garantimos segurança e eficiência no versionamento para múltiplos colaboradores, promovendo um ambiente de trabalho colaborativo e de alta qualidade. Utilizamos tecnologias de ponta, como Python, Perl, HTML5, CSS, PHP, JavaScript e PostgreSQL, para proporcionar uma experiência de usuário excepcional.
+
 ## Contato
 
-- E-mail: firminomgusmao@gmail.com
-- Telefone/WhatsApp: [83 9 9647-6498](https://wa.me/5583996476498)
+Para mais informações, por favor, entre em contato conosco:
 
-## Agradecimentos
+- **LinkedIn:** [Firmino Moreira Gusmão](https://www.linkedin.com/in/firminomgusmao)
+- **E-mail:** firminomgusmao@gmail.com
+- **Telefone:** +55 83 3023-6860
+- **WhatsApp:** +55 83 9 9647-6498
 
-Agradecemos a todos os colaboradores, clientes e usuários que contribuem diariamente para o crescimento e sucesso da plataforma OndeVou.com.
+Estamos à disposição para discutir detalhes e oportunidades de investimento. Aguardamos seu contato e agradecemos pelo interesse em nosso projeto.
+
+Atenciosamente,
+
+#### Firmino Moreira Gusmão
+CEO, OndeVou.com
