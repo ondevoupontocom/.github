@@ -38,12 +38,12 @@ Quando decidimos expandir nossa presença online, optamos por uma abordagem cria
 
 ## Redes Sociais
 
-- [![Instagram](https://img.icons8.com/ios-filled/24/000000/instagram-new.png) Instagram: ondevoupontocom](https://instagram.com/ondevoupontocom)
-- [![Facebook](https://img.icons8.com/ios-filled/24/000000/facebook-new.png) Facebook: ondevoupontocom](https://facebook.com/ondevoupontocom)
-- [![X](https://img.icons8.com/ios-filled/24/000000/x.png) X: ondevoupontocom](https://x.com/ondevoupontocom)
-- [![YouTube](https://img.icons8.com/ios-filled/24/000000/youtube-play.png) YouTube: ondevoupontocom](https://youtube.com/ondevoupontocom)
-- [![GitHub](https://img.icons8.com/ios-filled/24/000000/github.png) GitHub: ondevoupontocom](https://github.com/ondevoupontocom)
-- [![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png) LinkedIn: ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
+- [![Instagram](https://ondevou.com.br/icon/instagram.png) ondevoupontocom](https://instagram.com/ondevoupontocom)
+- [![Facebook](https://ondevou.com.br/icon/facebook.png) ondevoupontocom](https://facebook.com/ondevoupontocom)
+- [![X](https://ondevou.com.br/icon/x.png) ondevoupontocom](https://x.com/ondevoupontocom)
+- [![YouTube](https://ondevou.com.br/icon/youtube.png) ondevoupontocom](https://youtube.com/ondevoupontocom)
+- [![GitHub](https://ondevou.com.br/icon/github.png) ondevoupontocom](https://github.com/ondevoupontocom)
+- [![LinkedIn](https://ondevou.com.br/icon/linkedin.png) ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
 
 ## Ambiente de Desenvolvimento Avançado
 
