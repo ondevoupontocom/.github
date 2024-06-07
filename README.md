@@ -47,7 +47,7 @@ Quando decidimos expandir nossa presença online para além do site [OndeVou.com
 
 - [![Instagram](https://ondevou.com.br/icon/instagram.png) ondevoupontocom](https://instagram.com/ondevoupontocom)
 - [![Facebook](https://ondevou.com.br/icon/facebook.png) ondevoupontocom](https://facebook.com/ondevoupontocom)
-- [![X](https://ondevou.com.br/icon/x.png) ondevoupontocom](https://x.com/ondevoupontocom)
+- [![X](https://ondevou.com.br/icon/x.png?v2) ondevoupontocom](https://x.com/ondevoupontocom)
 - [![YouTube](https://ondevou.com.br/icon/youtube.png) ondevoupontocom](https://youtube.com/ondevoupontocom)
 - [![GitHub](https://ondevou.com.br/icon/github.png) ondevoupontocom](https://github.com/ondevoupontocom)
 - [![LinkedIn](https://ondevou.com.br/icon/linkedin.png) ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
