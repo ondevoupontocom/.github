@@ -1,9 +1,9 @@
 # Carta ao Investidor
 
-## Plataforma Ondevou.com
+## Plataforma OndeVou.com
 Prezado/a Investidor,
 
-Temos o prazer de apresentar a **Ondevou.com**, uma plataforma inovadora projetada para conectar pessoas, lugares e negócios. Nosso foco especial é facilitar a vida de pequenas e médias empresas, oferecendo uma variedade de serviços e recursos que promovem eficiência e integração. Estamos em pleno crescimento e buscamos parceiros investidores para expandir ainda mais nossa presença e impacto.
+Temos o prazer de apresentar a **OndeVou.com**, uma plataforma inovadora projetada para conectar pessoas, lugares e negócios. Nosso foco especial é facilitar a vida de pequenas e médias empresas, oferecendo uma variedade de serviços e recursos que promovem eficiência e integração. Estamos em pleno crescimento e buscamos parceiros investidores para expandir ainda mais nossa presença e impacto.
 
 ## Logomarca e sites
 [![OndeVou.com](https://ondevou.com/img/ondevou.com_logomarca_inpi.png)](https://ondevou.com)
