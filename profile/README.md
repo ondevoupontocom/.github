@@ -57,7 +57,6 @@ Para mais informações, por favor, entre em contato conosco:
 
 - **LinkedIn:** [Firmino Moreira Gusmão](https://www.linkedin.com/in/firminomgusmao)
 - **E-mail:** firminomgusmao@gmail.com
-- **Telefone:** +55 83 3023-6860
 - **WhatsApp:** [83 9 9647-6498](https://wa.me/5583996476498)
 
 Estamos à disposição para discutir detalhes e oportunidades de investimento. Aguardamos seu contato e agradecemos pelo interesse em nosso projeto.
