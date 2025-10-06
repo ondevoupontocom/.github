@@ -12,6 +12,8 @@ Temos o prazer de apresentar a **OndeVou.com**, uma plataforma inovadora projeta
 
 [**ondevou.com.br**](https://ondevou.com.br) é a versão beta do nosso site, utilizada para testes, treinamentos e desenvolvimento de novas funcionalidades. Estamos constantemente aprimorando nossos serviços para proporcionar a melhor experiência possível aos nossos usuários.
 
+A plataforma foi projetada para ser **modular e escalável**, permitindo que microsites ou projetos especializados utilizem recursos compartilhados de forma segura e eficiente, mantendo a integridade do sistema principal.
+
 ## Missão
 
 Revolucionar a interação entre empresas e usuários, simplificando processos e criando uma experiência digital intuitiva e poderosa que impulsione o crescimento e a eficiência dos negócios.
@@ -30,20 +32,47 @@ Revolucionar a interação entre empresas e usuários, simplificando processos e
 
 - **OndeVou Endereços:** Simplifica o cadastro e a organização de participantes por endereço, fornecendo informações detalhadas por rua, bairro, CEP e cidade.
 
+## Próximo Passo: Fechar o Circuito do ERP e Lançamento da Loja Virtual com Ofertas Relâmpago
+
+Nosso ERP está em pleno funcionamento e já atende empresas reais, mas nossa visão vai além. Estamos em fase de expansão estratégica, com o objetivo de fechar o circuito completo da gestão empresarial, unindo:
+
+- **ERP (produção e gestão interna)**
+- **Presença nas redes sociais (via OndeVou.com)**
+- **Integração com os principais marketplaces (Mercado Livre, Shopee, Amazon, Magalu, etc.)**
+- **Desenvolvimento da loja virtual própria, integrada ao ERP e aos marketplaces**
+- **Ofertas Relâmpago: Uma plataforma dedicada a promoções e descontos, através do nosso site **ObterDesconto.com.br**, que será integrada ao ecossistema da OndeVou.com, proporcionando ofertas dinâmicas e convenientes para consumidores e empresas.**
+
+A integração com a nossa própria loja virtual permitirá que as empresas usuárias tenham uma plataforma de e-commerce completa, com funcionalidades de venda, gestão de produtos, preços, estoques e pedidos, além de um painel de controle centralizado. Em paralelo, a plataforma ****ObterDesconto.com.br**** será integrada para proporcionar ofertas e descontos dinâmicos, criando uma experiência de compras ainda mais atrativa para os clientes.
+
+Isso significa que, em um único ambiente, a empresa usuária poderá:
+
+- Sincronizar automaticamente produtos, preços, estoques e pedidos entre o ERP, a loja virtual e os marketplaces;  
+- Gerenciar a presença digital e divulgar seus produtos diretamente nos perfis do OndeVou.com;  
+- Conectar-se com clientes via redes sociais, com links diretos para seus perfis ou produtos, e facilitar o processo de compra;  
+- Participar de ofertas relâmpago no ****ObterDesconto.com.br****, acessando um mercado adicional com promoções exclusivas e temporárias.  
+
+Essa proposta cria um ecossistema completo e integrado que atende às necessidades dos pequenos e médios empreendedores, oferecendo um caminho claro para otimizar suas operações internas e expandir sua presença no mercado digital.
+
+**Buscamos investimento para:**
+
+- Desenvolver integrações robustas com marketplaces, redes sociais e nossa loja virtual;  
+- Escalar a infraestrutura da plataforma para suportar o aumento de usuários e transações;  
+- Expandir nossa base de empresas ativas, criando um modelo de negócios sustentável e de grande impacto no mercado.
+
 ## Marca e Domínios
 
 A **OndeVou.com Tecnologia Ltda** é uma empresa 100% brasileira, sediada em João Pessoa, estado da Paraíba. Somos detentores da marca registrada **OndeVou.com** e possuímos os registros dos domínios **ondevou.com** e **ondevou.com.br**.
 
-Quando decidimos expandir nossa presença online, optamos por uma abordagem criativa para manter a essência da nossa marca em todas as plataformas: substituímos o "." por "ponto," resultando em "ondevoupontocom". Isso nos permite manter a consistência da nossa marca em todas as nossas interações online.
+Nossa plataforma foi desenvolvida de forma **flexível e escalável**, permitindo que microsites ou projetos especializados utilizem a infraestrutura principal sem comprometer a operação do site principal, garantindo consistência e segurança.
 
 ## Redes Sociais
 
-- [![Instagram](https://ondevou.com.br/icon/instagram.png) ondevoupontocom](https://instagram.com/ondevoupontocom)
-- [![Facebook](https://ondevou.com.br/icon/facebook.png) ondevoupontocom](https://facebook.com/ondevoupontocom)
-- [![X](https://ondevou.com.br/icon/x.png?v2) ondevoupontocom](https://x.com/ondevoupontocom)
-- [![YouTube](https://ondevou.com.br/icon/youtube.png) ondevoupontocom](https://youtube.com/ondevoupontocom)
-- [![GitHub](https://ondevou.com.br/icon/github.png) ondevoupontocom](https://github.com/ondevoupontocom)
-- [![LinkedIn](https://ondevou.com.br/icon/linkedin.png) ondevoupontocom](https://linkedin.com/company/ondevoupontocom)
+- [![Instagram](https://ondevou.com.br/icon/instagram.png) ondevoupontocom](https://instagram.com/ondevoupontocom)  
+- [![Facebook](https://ondevou.com.br/icon/facebook.png) ondevoupontocom](https://facebook.com/ondevoupontocom)  
+- [![X](https://ondevou.com.br/icon/x.png?v2) ondevoupontocom](https://x.com/ondevoupontocom)  
+- [![YouTube](https://ondevou.com.br/icon/youtube.png) ondevoupontocom](https://youtube.com/ondevoupontocom)  
+- [![GitHub](https://ondevou.com.br/icon/github.png) ondevoupontocom](https://github.com/ondevoupontocom)  
+- [![LinkedIn](https://ondevou.com.br/icon/linkedin.png) ondevoupontocom](https://linkedin.com/company/ondevoupontocom)  
 
 ## Ambiente de Desenvolvimento Avançado
 
@@ -53,15 +82,15 @@ Garantimos segurança e eficiência no versionamento para múltiplos colaborador
 
 ## Contato
 
-Para mais informações, por favor, entre em contato conosco:
+Para mais informações, entre em contato conosco:
 
-- **LinkedIn:** [Firmino Moreira Gusmão](https://www.linkedin.com/in/firminomgusmao)
-- **E-mail:** firminomgusmao@gmail.com
-- **WhatsApp:** [83 9 9647-6498](https://wa.me/5583996476498)
+- **LinkedIn:** [Firmino Moreira Gusmão](https://www.linkedin.com/in/firminomgusmao)  
+- **E-mail:** firminomgusmao@gmail.com  
+- **WhatsApp:** [83 9 9647-6498](https://wa.me/5583996476498)  
 
 Estamos à disposição para discutir detalhes e oportunidades de investimento. Aguardamos seu contato e agradecemos pelo interesse em nosso projeto.
 
-Atenciosamente,
+Atenciosamente,  
 
-#### Firmino Moreira Gusmão
-CEO, OndeVou.com
+#### Firmino Moreira Gusmão  
+CEO, OndeVou.com  
